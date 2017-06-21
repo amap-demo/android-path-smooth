@@ -14,7 +14,7 @@
 原始轨迹
 ![Screenshot]( https://github.com/amap-demo/android-path-smooth/raw/master/apk/Screenshot1.png )
 处理后轨迹
-![Screenshot]( https://github.com/amap-demo/android-path-smooth/raw/master/apk/Screenshot12png )
+![Screenshot]( https://github.com/amap-demo/android-path-smooth/raw/master/apk/Screenshot2.png )
 
 
 ## 扫一扫安装 ##
