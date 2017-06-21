@@ -13,8 +13,7 @@
 ## 效果展示 ##
 ![Screenshot]( https://github.com/amap-demo/android-path-smooth/raw/master/apk/Screenshot1.png )
 ![Screenshot]( https://github.com/amap-demo/android-path-smooth/raw/master/apk/Screenshot2.png )
-
-                        原始轨迹                                        处理后轨迹
+                    原始轨迹                                        处理后轨迹
 
 ## 扫一扫安装 ##
 ![Screenshot]( https://raw.githubusercontent.com/amap-demo/android-path-smooth/master/apk/download.png)  
