@@ -11,11 +11,10 @@
 基于3D地图SDK，对真实轨迹进行处理，实现去噪、平滑和抽稀。
 
 ## 效果展示 ##
-原始轨迹
 ![Screenshot]( https://github.com/amap-demo/android-path-smooth/raw/master/apk/Screenshot1.png )
-处理后轨迹
-![Screenshot]( https://github.com/amap-demo/android-path-smooth/raw/master/apk/Screenshot12png )
+![Screenshot]( https://github.com/amap-demo/android-path-smooth/raw/master/apk/Screenshot2.png )
 
+原始轨迹和处理后轨迹
 
 ## 扫一扫安装 ##
 ![Screenshot]( https://raw.githubusercontent.com/amap-demo/android-path-smooth/master/apk/download.png)  
